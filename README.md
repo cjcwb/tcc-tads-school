@@ -17,7 +17,7 @@ O script contido em `tads-school.bat` irá garantir a instalação do Node.js (c
 ## Iniciando o Projeto
 
 1. **Baixar o Projeto**  
-   Faça o download do código-fonte ou clone o repositório.
+   Faça o download do código-fonte do [tads-school](https://github.com/cjcwb/tcc-tads-school/releases/download/v0.0.1/tads-school.zip) ou clone o repositório.
 
 2. **Iniciar o Script de Instalação**  
    Localize o arquivo `tads-school.bat` na raiz do projeto.
