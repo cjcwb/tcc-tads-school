@@ -50,6 +50,7 @@ O script contido em `tads-school.bat` irá garantir a instalação do Node.js (c
 
 - URL padrão: [http://localhost:3000/auth/login](http://localhost:3000/auth/login)
 - User padrao: `admin : admin`
+- Não esquece de trocar no arquivo `.env` a variavel `NEXTAUTH_SECRET=segredo`
 - Certifique-se de ter o servidor rodando para acessar a interface.
 
 ## Dicas
