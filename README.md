@@ -22,7 +22,7 @@ O script contido em `tads-school.bat` irá garantir a instalação do Node.js (c
 2. **Iniciar o Script de Instalação**  
    Localize o arquivo `tads-school.bat` na raiz do projeto.
 
-3. **Executar o `tads-school.bat`**  
+3. **Executar o `tads-school.bat` e `populate.bat` ou `populateAdminOnly.bat`**  
    Dê um duplo clique no `tads-school.bat` ou execute-o via prompt de comando (CMD).  
    
    Este script irá:
